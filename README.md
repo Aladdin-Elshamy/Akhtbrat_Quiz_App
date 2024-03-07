@@ -1,14 +1,15 @@
 # Akhtbrat Quiz App
-![image](https://github.com/Aladdin-Elshamy/Akhtbrat_Quiz_App/assets/122921299/4a09c1e9-d9bf-4c1a-879a-f43606c59d28)
+
+![image](https://github.com/Aladdin-Elshamy/Akhtbrat_Quiz_App/assets/122921299/64cc1561-c0c3-4fa1-8b9a-22644d925085)
+
 Welcome to the Akhtbrat Quiz App! This is a website that allows users to test their knowledge by taking quizzes on various topics. The app provides an interactive and engaging experience for users to challenge themselves and learn new things.
 
 ## Table of Contents
 - [URL](#URL)
+- [Technology Used](#Technology Used)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## URL
@@ -54,15 +55,6 @@ Once the app is running, follow these steps to take a quiz:
 5. View your score and compare it with the correct answers to see how you performed.
 6. Test your knowledge again by clicking on "Check answers".
 
-## Contributing
-
-Contributions to the Akhtbrat Quiz App are welcome! If you have any ideas for improvements or bug fixes, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`
-3. Make the necessary changes and commit them: `git commit -am 'Add new feature'`
-4. Push to the branch: `git push origin my-feature`
-5. Submit a pull request detailing your changes.
 
 ## Contact
 
