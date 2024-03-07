@@ -94,9 +94,12 @@ main .last-image {
     "slnt" 0;
   margin-top: 1.5em;
 }
-.btn{
-  padding-inline: 27%;
+@media (max-width:480px) {
+  .btn{
+    padding-inline: 27%;
+  }
 }
+
 .btn:active {
   opacity: 0.6;
   transform: scale(0.95);
