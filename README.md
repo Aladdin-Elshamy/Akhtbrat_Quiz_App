@@ -6,7 +6,7 @@ Welcome to the Akhtbrat Quiz App! This is a website that allows users to test th
 
 ## Table of Contents
 - [URL](#URL)
-- [Technology Used](#Technology Used)
+- [Technology-Used](#Technology-Used)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,7 +16,7 @@ Welcome to the Akhtbrat Quiz App! This is a website that allows users to test th
 
 The Akhtbrat Quiz App is currently deployed and accessible at [https://aladdin-elshamy.github.io/Akhtbrat_Quiz_App/](https://aladdin-elshamy.github.io/Akhtbrat_Quiz_App/). Feel free to visit the URL to explore and enjoy the quizzes!
 
-## Technology Used
+## Technology-Used
 
 The Akhtbrat Quiz App is built using the following technologies:
 
