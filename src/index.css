@@ -113,13 +113,14 @@ main .last-image {
   transform: scale(0.95);
 }
 .select{
-  width: 38%;
+  width: 42%;
   max-width: 320px;
   font-size: 0.85rem;
 }
 @media (max-width: 767px) {
   .select{
     width: 80%;
+    max-width: 300px;
   }
 }
 .container {
