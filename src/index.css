@@ -113,7 +113,7 @@ main .last-image {
   transform: scale(0.95);
 }
 .select{
-  width: 35%;
+  width: 40%;
   max-width: 320px;
   font-size: 0.85rem;
 }
