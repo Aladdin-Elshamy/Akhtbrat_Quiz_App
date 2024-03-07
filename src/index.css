@@ -120,7 +120,7 @@ main .last-image {
 @media (max-width: 767px) {
   .select{
     width: 80%;
-    max-width: 300px;
+    max-width: 280px;
   }
 }
 .container {
