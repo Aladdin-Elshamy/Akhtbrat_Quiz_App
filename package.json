@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://aladdin-elshamy.github.io/Aktbrat_Quiz_App/",
+  "homepage": "https://aladdin-elshamy.github.io/Akhtbrat_Quiz_App/",
   "scripts": {
     "dev": "vite",
     "predeploy" : "npm run build",

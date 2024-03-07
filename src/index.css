@@ -87,14 +87,16 @@ main .last-image {
   font-size: 1rem;
   width: fit-content;
   margin-inline: auto;
-  padding: 0.75em min(5em,20%);
+  padding: 0.75em 6em;
   cursor: pointer;
   font-family: "Inter", sans-serif;
   font-variation-settings:
     "slnt" 0;
   margin-top: 1.5em;
 }
-
+.btn{
+  padding-inline: 27%;
+}
 .btn:active {
   opacity: 0.6;
   transform: scale(0.95);
