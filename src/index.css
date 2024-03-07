@@ -115,12 +115,13 @@ main .last-image {
 .select{
   width: 42%;
   max-width: 320px;
-  font-size: 0.85rem;
+  font-size: 1rem;
 }
 @media (max-width: 767px) {
   .select{
     width: 80%;
     max-width: 280px;
+    font-size: 0.85rem;
   }
 }
 .container {
