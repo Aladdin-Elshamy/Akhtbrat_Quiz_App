@@ -151,7 +151,12 @@ main .last-image {
   align-items: center;
   justify-content: center;
 }
-
+@media (min-width: 768px) {
+  .answers li {
+    font-size: 0.9rem;
+  }
+  
+}
 .answers li:hover {
   background-color: var(--hover-color);
 }
@@ -182,7 +187,7 @@ main .last-image {
 
 .question p {
   font-weight: 700;
-  font-size: 1.3rem;
+  font-size: 1.6rem;
 }
 
 .selected {
