@@ -2,7 +2,6 @@ import React, { useState } from "react"
 import Question from "./components/Question"
 import Select from 'react-select';
 import {decode} from 'html-entities';
-import { Helmet } from "react-helmet";
 const options = [
   { value: 5, label: 'Five' },
   { value: 8, label: 'Eight' },
@@ -145,9 +144,6 @@ function App() {
   }
   return (
     <main>
-      <Helmet>
-        <link rel="shortcut icon" type="image/x-icon" href="images/quiz64.png" />
-      </Helmet>
       <img src="./images/blob5.png" alt="" className="first-image" />
       <div className="container">
        {
