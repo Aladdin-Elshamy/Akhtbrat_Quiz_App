@@ -24,7 +24,6 @@ The Akhtbrat Quiz App is built using the following technologies:
 - **CSS**: The app is styled using CSS (Cascading Style Sheets), which controls the visual presentation and appearance of the web pages. CSS is used to create a visually appealing and responsive design.
 - **JavaScript**: The app utilizes JavaScript for its interactive elements, such as handling user input, displaying questions and options, tracking scores, and managing timers. JavaScript adds dynamic functionality to the app and enhances the user experience.
 - **React**: The app is built with React, a popular JavaScript library for building user interfaces. React allows for the creation of reusable components, making it easier to manage and maintain the app's codebase. It also provides efficient rendering and state management, resulting in a smooth and responsive user experience.
-- **Bootstrap**: The app utilizes the Bootstrap framework to enhance its responsiveness and provide pre-built components and styles for faster and easier development.
 - **Git**: Git is used for version control, allowing multiple developers to collaborate on the project and track changes made to the codebase.
 - **GitHub**: The project is hosted on GitHub, a web-based platform for version control and collaboration. GitHub provides features such as issue tracking and pull requests, making it easier for developers to contribute to the project.
 
