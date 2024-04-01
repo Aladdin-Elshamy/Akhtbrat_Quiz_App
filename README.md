@@ -1,6 +1,6 @@
 # Akhtbrat Quiz App
 
-![image](https://github.com/Aladdin-Elshamy/Akhtbrat_Quiz_App/assets/122921299/714d5d66-2eb7-4092-8cfb-fb58993049df)
+![image](https://github.com/Aladdin-Elshamy/Akhtbrat_Quiz_App/assets/122921299/62676c3f-7620-4043-b0fb-6d2ff81088af)
 
 Welcome to the Akhtbrat Quiz App! This is a website that allows users to test their knowledge by taking quizzes on various topics. The app provides an interactive and engaging experience for users to challenge themselves and learn new things.
 
