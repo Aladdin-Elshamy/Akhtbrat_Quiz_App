@@ -149,6 +149,7 @@ function App() {
        {
           renderIntroMessage() ||
           <div className="start-page">
+
             <h1>Akhtbart</h1>
             <p>Test your knowledge with this quiz</p>
             <Select
